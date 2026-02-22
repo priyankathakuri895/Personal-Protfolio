@@ -15,6 +15,7 @@
     "@mui/icons-material": "^7.3.8",
     "@mui/material": "^7.3.8",
     "@mui/styled-engine-sc": "^7.3.8",
+    "axios": "^1.13.5",
     "react": "^19.2.0",
     "react-awesome-reveal": "^4.3.1",
     "react-dom": "^19.2.0",
